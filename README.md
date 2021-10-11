@@ -1,4 +1,4 @@
-# MLU-05-BostonHousing-FeatureImportant
+# MLU-06-BostonHousing-FeatureImportant
 
 **About**
 Take a look at Non-Linear Regression algorithm which consist of Decision Tree, Random Forest and Adaboost
